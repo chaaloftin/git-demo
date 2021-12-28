@@ -7,6 +7,6 @@ This is the first file in this repo
 
 I decided to add some random text here
 
-## Random Text 2
+## Website contents
 
-I decided to add some more random text here!
+1. boilerplate code
