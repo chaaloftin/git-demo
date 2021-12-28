@@ -9,4 +9,4 @@ I decided to add some random text here
 
 ## Website contents
 
-1. boilerplate code
+1. Home page
